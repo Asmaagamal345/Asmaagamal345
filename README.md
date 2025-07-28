@@ -1,16 +1,29 @@
 ## Hi there 👋
+# Hi, I'm Asmaa 👋
 
-<!--
-**Asmaagamal345/Asmaagamal345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Communications and Computer Engineering student*  
+💻 Learning *Python* and starting with *Object-Oriented Programming (OOP)*  
+🌱 Focused on improving my programming skills and building a solid technical foundation.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+- *LinkedIn:* [Asmaa Gamal](https://www.linkedin.com/in/asmaa-gamal-530582333)
+- *Email:* asmagamal345@gmail.com
+
+---
+
+### 🛠 Technical Skills
+
+#### Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+#### Concepts  
+- Object-Oriented Programming (OOP)
+
+---
+
+⭐ I am continuously learning and working to expand my knowledge in programming and software development.
