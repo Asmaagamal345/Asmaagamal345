@@ -1,8 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Asmaa 👋
 
-🎓 *Communications and Computer Engineering student*  
-💻 Learning *Python* and starting with *Object-Oriented Programming (OOP)*  
+🎓 *Communications and Computer Engineering student*    
 🌱 Focused on improving my programming skills and building a solid technical foundation.  
 
 ---
